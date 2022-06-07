@@ -1,11 +1,12 @@
-# bootstrap-boilerplate
+# Kilometer To Miles
 
 ## Description
-A basic HTML5 Bootstrap template, includes the required CSS and JS for Bootstrap to run.
+This project will allow users to convert from kilometers to miles.
 
 ## Prerequisites
 - Understanding of [Bootstrap](https://getbootstrap.com/)
 - Strong understanding of HTML5
+- Some understanding of JS
 
 ## Installation
 - [Git](https://git-scm.com/) must be installed
